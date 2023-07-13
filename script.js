@@ -164,6 +164,363 @@ function staticLoadPlaces() {
                 lng: -62.78576218,
             }
         },
+        {
+            name: 'Entrada_ruinas_epecuen',
+            location: {
+                lat: -37.13007493,
+                lng: -62.8055267,
+            }
+        },
+        {
+            name: 'primera_esquina',
+            location: {
+                lat: -37.13014042,
+                lng: -62.80573659,
+            }
+        },
+        {
+            name: 'cartel_escuela_17',
+            location: {
+                lat: -37.13038313,
+                lng: -62.80604638,
+            }
+        },
+        {
+            name: 'esquina_2',
+            location: {
+                lat: -37.13043178,
+                lng: -62.80613456,
+            }
+        },
+        {
+            name: 'esquina_3',
+            location: {
+                lat: -37.12967718,
+                lng: -62.80709714,
+            }
+        },
+        {
+            name: 'casa_con_escalera',
+            location: {
+                lat: -37.12997362,
+                lng: -62.8076252,
+            }
+        },
+        {
+            name: 'tres_arboles',
+            location: {
+                lat: -37.13028263,
+                lng: -62.80799702,
+            }
+        },
+        {
+            name: "PT_23.8 Puerta y ventana",
+            location: {
+                lat: -37.13050315,
+                lng: -62.80822266,
+            }
+        },
+        {
+            name: "PT_23.9 Esquina verde",
+            location: {
+                lat: -37.13083167,
+                lng: -62.80873261,
+            }
+        },
+        {
+            name: "PT_23.10 Casa blanca",
+            location: {
+                lat: -37.13089235,
+                lng: -62.80881777,
+            }
+        },
+        {
+            name: "PT_23.11 Ingreso de casa con rejita",
+            location: {
+                lat: -37.13052748,
+                lng: -62.80902129,
+            }
+        },
+        {
+            name: "PT_23.12 Casa de dos pisos",
+            location: {
+                lat: -37.13059671,
+                lng: -62.80911181,
+            }
+        },
+        {
+            name: "PT_23.13 Esquina marco de puerta",
+            location: {
+                lat: -37.13031604,
+                lng: -62.80960165,
+            }
+        },
+        {
+            name: "PT_23.14 cartel mi casa y mis calles",
+            location: {
+                lat: -37.12973652,
+                lng: -62.80996375,
+            }
+        },
+        {
+            name: "PT_23.15 Tanque de agua",
+            location: {
+                lat: -37.12939998,
+                lng: -62.81063966,
+            }
+        },
+        {
+            name: "PT_23.16 Esquina postes de luz",
+            location: {
+                lat: -37.13063467,
+                lng: -62.81080227,
+            }
+        },
+        {
+            name: "PT_23.17 Hotel italia",
+            location: {
+                lat: -37.13074079,
+                lng: -62.81066984,
+            }
+        },
+        {
+            name: "PT_23.18 Inicio avenida postes caídos",
+            location: {
+                lat: -37.13083888,
+                lng: -62.81064201,
+            }
+        },
+        {
+            name: "PT_23.19 Esquina 2 postes caídos",
+            location: {
+                lat: -37.13142481,
+                lng: -62.81128004,
+            }
+        },
+        {
+            name: "PT_23.20 Inicio agua en avenida postes",
+            location: {
+                lat: -37.13213716,
+                lng: -62.81207833,
+            }
+        },
+        {
+            name: "PT_23.21 Esquina placa mármol",
+            location: {
+                lat: -37.13196342,
+                lng: -62.81091157,
+            }
+        },
+        {
+            name: "PT_23.22 Inicio agua otra esquina placa mármol",
+            location: {
+                lat: -37.1326902,
+                lng: -62.81115431,
+            }
+        },
+        {
+            name: "PT_23.23 Capilla Santa Teresita",
+            location: {
+                lat: -37.13278402,
+                lng: -62.80998755,
+            }
+        },
+        {
+            name: "PT_23.24 Cambacita",
+            location: {
+                lat: -37.13311172,
+                lng: -62.80966803,
+            }
+        },
+        {
+            name: "PT_23.25 Hotel hispano argentino",
+            location: {
+                lat: -37.13321623,
+                lng: -62.80959897,
+            }
+        },
+        {
+            name: "PT_23.26 Techo diagonal hierro",
+            location: {
+                lat: -37.1334183,
+                lng: -62.80996274,
+            }
+        },
+        {
+            name: "PT_23.27 Foto Tesorini",
+            location: {
+                lat: -37.13350812,
+                lng: -62.81015486,
+            }
+        },
+        {
+            name: "PT_23.28 Cartel plaza san martin",
+            location: {
+                lat: -37.13368132,
+                lng: -62.81041436,
+            }
+        },
+        {
+            name: "PT_23.29 Esquina paralela cartel plaza",
+            location: {
+                lat: -37.13382806,
+                lng: -62.81061988,
+            }
+        },
+        {
+            name: "PT_23.30 Heladería chito",
+            location: {
+                lat: -37.13404029,
+                lng: -62.81084619,
+            }
+        },
+        {
+            name: "PT_23.31 Complejo balneario",
+            location: {
+                lat: -37.13434821,
+                lng: -62.81122137,
+            }
+        },
+        {
+            name: "PT_23.32 Hotel azul",
+            location: {
+                lat: -37.13396652,
+                lng: -62.81061217,
+            }
+        },
+        {
+            name: "PT_23.33 Banco provincia",
+            location: {
+                lat: -37.13264128,
+                lng: -62.80884258,
+            }
+        },
+        {
+            name: "PT_23.34 Cartel alfajorlandia",
+            location: {
+                lat: -37.13241675,
+                lng: -62.8087534,
+            }
+        },
+        {
+            name: "PT_23.35 Esquina mitre y av principal",
+            location: {
+                lat: -37.13232213,
+                lng: -62.80864913,
+            }
+        },
+        {
+            name: "PT_23.36 Hotel monterreal",
+            location: {
+                lat: -37.13203291,
+                lng: -62.80825853,
+            }
+        },
+        {
+            name: "PT_23.37 Esquina av principal y hotel otra esquina",
+            location: {
+                lat: -37.13202115,
+                lng: -62.80825451,
+            }
+        },
+        {
+            name: "PT_23.38 Casa avenida principal con círculo hierro",
+            location: {
+                lat: -37.1316595,
+                lng: -62.80749075,
+            }
+        },
+        {
+            name: "PT_23.39 Villa Cura Malal",
+            location: {
+                lat: -37.13135077,
+                lng: -62.80734055,
+            }
+        },
+        {
+            name: "PT_23.40 Esquina calle Sarmiento y av principal",
+            location: {
+                lat: -37.13092095,
+                lng: -62.80679304,
+            }
+        },
+        {
+            name: "PT_23.41 Residencia villa clara",
+            location: {
+                lat: -37.13092095,
+                lng: -62.80679304,
+            }
+        },
+        {
+            name: "PT_23.42 Cartel Epecuén",
+            location: {
+                lat: -37.12990305,
+                lng: -62.80570339,
+            }
+        },
+        {
+            name: "PT_23.43 monumento luna",
+            location: {
+                lat: -37.13158599,
+                lng: -62.80949503,
+            }
+        },
+        {
+            name: "PT_23.44 recreo bailable bin ban bun",
+            location: {
+                lat: -37.13171403,
+                lng: -62.80958388,
+            }
+        },
+        {
+            name: "PT_23.45 Restaurante hola que tal",
+            location: {
+                lat: -37.13183485,
+                lng: -62.8093512,
+            }
+        },
+        {
+            name: "PT_23.46 Hotel Rosse",
+            location: {
+                lat: -37.13278161,
+                lng: -62.80890997,
+            }
+        },
+        {
+            name: "PT_23.47 Confiteria Corradini",
+            location: {
+                lat: -37.1327327,
+                lng: -62.80906118,
+            }
+        },
+        {
+            name: "PT_23.48 Recreo bailable bender",
+            location: {
+                lat: -37.13286688,
+                lng: -62.80927978,
+            }
+        },
+        {
+            name: "PT_23.49 Esquina rivadavia y Avenida principal",
+            location: {
+                lat: -37.13308633,
+                lng: -62.80943669,
+            }
+        },
+        {
+            name: "PT_23.50 Piletas balneario",
+            location: {
+                lat: -37.13482586,
+                lng: -62.81147853,
+            }
+        },
+        {
+            name: "PT_24 Centro interpretacion epecuen",
+            location: {
+                lat: -37.11268824,
+                lng: -62.78993804,
+            }
+        }
    ];
 }
 
